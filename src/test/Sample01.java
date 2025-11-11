@@ -3,5 +3,6 @@ package test;
 public class Sample01 {
 	public static void main(String[] args) {
 		System.out.println("Sample01 Test");
+		System.out.println("commit");
 	}
 }
